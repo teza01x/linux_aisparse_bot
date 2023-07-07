@@ -1,0 +1,7 @@
+sign_block = '#main > div.mainContent > div > div:nth-child(1)'
+login_line= '//*[@id="user_email"]'
+password_line = '//*[@id="user_password"]'
+privacy_button = '//*[@id="sign_in_form"]/div[3]/label/div'
+sign_button = '//*[@id="sign_in_form"]/p[1]/input'
+application_page = '#main > div:nth-child(2) > div.mainContent > div:nth-child(1) > div'
+date_block_css = '#paymentOptions > div.medium-3.column'
